@@ -1,6 +1,6 @@
 ## Hi I'm Shivam 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar2883&show_icons=true)](https://github.com/ShivamKumar2883/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883"/>
 <!--
 **ShivamKumar2883/ShivamKumar2883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
