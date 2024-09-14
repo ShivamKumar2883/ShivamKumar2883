@@ -4,7 +4,7 @@
 ▪️ Completed my Higher Secondary School Certificate in PCM with Computer Science from Saint Xavier's School, Bokaro, Jharkhand. <br>
 ▪️ And Secondary School Certificate with Computer from Saint Teresa's School, Bhagalpur, Bihar.
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883&hide=stars,prs,issues,contribs"/>
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2883&layout=compact"/>
 <!--
