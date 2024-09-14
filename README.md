@@ -1,6 +1,8 @@
 ## Hi I'm Shivam 👋
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar2883&layout=compact"/>
 <!--
 **ShivamKumar2883/ShivamKumar2883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
