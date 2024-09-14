@@ -1,4 +1,8 @@
-## Hi I'm Shivam 👋
+## 𝐇ii, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐒𝐡𝐢𝐯𝐚𝐦 𝐊𝐮𝐦𝐚𝐫.👋
+
+▪️ I am currently a final-year student pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, Punjab, India. <br>
+▪️ Completed my Higher Secondary School Certificate in PCM with Computer Science from Saint Xavier's School, Bokaro, Jharkhand. <br>
+▪️ And Secondary School Certificate with Computer from Saint Teresa's School, Bhagalpur, Bihar.
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShivamKumar2883"/>
 
